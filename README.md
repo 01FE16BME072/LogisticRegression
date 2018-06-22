@@ -1,0 +1,3 @@
+# LogisticRegression
+As a part of my learning on Machine Learning i wrote the codes one file contains the logisticregression algorithm written from scratch file named as Logistic.py this code uses another file which is sig.py through import method after seeing the results visually please zoom in the section nearer to the datapoints ad the blue line because seeing at first you will thing that it isnt a sigmoidal curve because the datapoint is nearer after zooming you will clearly see out the sigmoidal separation curve
+And also a part of learning the scikit-learn library i have also done the same in scikit-learn  
